@@ -1,0 +1,196 @@
+{
+  "ed8ec2df-931c-4a0d-ad3c-aafc8fea19c4": {
+    "id": "ed8ec2df-931c-4a0d-ad3c-aafc8fea19c4",
+    "created_at": "2026-05-21T05:07:11.257Z",
+    "team_size": 5,
+    "primary_use_case": "coding",
+    "tools_data": {
+      "cursor": {
+        "selectedPlan": "pro",
+        "seats": 5,
+        "monthlySpend": 100
+      },
+      "copilot": {
+        "selectedPlan": "business",
+        "seats": 5,
+        "monthlySpend": 95
+      },
+      "claude": {
+        "selectedPlan": "team",
+        "seats": 5,
+        "monthlySpend": 125
+      }
+    },
+    "total_current_spend": 320,
+    "total_optimized_spend": 225,
+    "total_savings": 95,
+    "audit_results": [
+      {
+        "toolId": "cursor",
+        "toolName": "Cursor",
+        "currentSpend": 100,
+        "recommendedPlan": "pro",
+        "recommendedSeats": 5,
+        "recommendedSpend": 100,
+        "monthlySavings": 0,
+        "annualSavings": 0,
+        "reason": "Your plan is optimized for your current usage.",
+        "actionType": "no_change"
+      },
+      {
+        "toolId": "copilot",
+        "toolName": "GitHub Copilot",
+        "currentSpend": 95,
+        "recommendedPlan": "none",
+        "recommendedSeats": 0,
+        "recommendedSpend": 0,
+        "monthlySavings": 95,
+        "annualSavings": 1140,
+        "reason": "You are double-paying for coding assistants. Cancel Copilot and standardize on Cursor.",
+        "actionType": "standardize"
+      },
+      {
+        "toolId": "claude",
+        "toolName": "Claude.ai",
+        "currentSpend": 125,
+        "recommendedPlan": "team",
+        "recommendedSeats": 5,
+        "recommendedSpend": 125,
+        "monthlySavings": 0,
+        "annualSavings": 0,
+        "reason": "Your plan is optimized for your current usage.",
+        "actionType": "no_change"
+      }
+    ]
+  },
+  "c8ab647e-56c9-4d50-8654-d45fac2f3660": {
+    "id": "ed8ec2df-931c-4a0d-ad3c-aafc8fea19c4",
+    "created_at": "2026-05-21T05:07:11.257Z",
+    "team_size": 5,
+    "primary_use_case": "coding",
+    "tools_data": {
+      "cursor": {
+        "selectedPlan": "pro",
+        "seats": 5,
+        "monthlySpend": 100
+      },
+      "copilot": {
+        "selectedPlan": "business",
+        "seats": 5,
+        "monthlySpend": 95
+      },
+      "claude": {
+        "selectedPlan": "team",
+        "seats": 5,
+        "monthlySpend": 125
+      }
+    },
+    "total_current_spend": 320,
+    "total_optimized_spend": 225,
+    "total_savings": 95,
+    "audit_results": [
+      {
+        "toolId": "cursor",
+        "toolName": "Cursor",
+        "currentSpend": 100,
+        "recommendedPlan": "pro",
+        "recommendedSeats": 5,
+        "recommendedSpend": 100,
+        "monthlySavings": 0,
+        "annualSavings": 0,
+        "reason": "Your plan is optimized for your current usage.",
+        "actionType": "no_change"
+      },
+      {
+        "toolId": "copilot",
+        "toolName": "GitHub Copilot",
+        "currentSpend": 95,
+        "recommendedPlan": "none",
+        "recommendedSeats": 0,
+        "recommendedSpend": 0,
+        "monthlySavings": 95,
+        "annualSavings": 1140,
+        "reason": "You are double-paying for coding assistants. Cancel Copilot and standardize on Cursor.",
+        "actionType": "standardize"
+      },
+      {
+        "toolId": "claude",
+        "toolName": "Claude.ai",
+        "currentSpend": 125,
+        "recommendedPlan": "team",
+        "recommendedSeats": 5,
+        "recommendedSpend": 125,
+        "monthlySavings": 0,
+        "annualSavings": 0,
+        "reason": "Your plan is optimized for your current usage.",
+        "actionType": "no_change"
+      }
+    ],
+    "ai_summary": "We analyzed your team's AI tool spend and discovered $95/mo in potential savings. For a team size of 5 running coding tasks, you can optimize your costs by: eliminating redundant tool duplication by standardizing on a single editor platform (GitHub Copilot). Applying these changes will increase your capital efficiency. Since your optimization opportunities qualify, we recommend scheduling a brief call with a Credex advisor to capture these savings."
+  },
+  "ea6b13ba-9317-4071-bdae-a541251d753d": {
+    "id": "ed8ec2df-931c-4a0d-ad3c-aafc8fea19c4",
+    "created_at": "2026-05-21T05:07:11.257Z",
+    "team_size": 5,
+    "primary_use_case": "coding",
+    "tools_data": {
+      "cursor": {
+        "selectedPlan": "pro",
+        "seats": 5,
+        "monthlySpend": 100
+      },
+      "copilot": {
+        "selectedPlan": "business",
+        "seats": 5,
+        "monthlySpend": 95
+      },
+      "claude": {
+        "selectedPlan": "team",
+        "seats": 5,
+        "monthlySpend": 125
+      }
+    },
+    "total_current_spend": 320,
+    "total_optimized_spend": 225,
+    "total_savings": 95,
+    "audit_results": [
+      {
+        "toolId": "cursor",
+        "toolName": "Cursor",
+        "currentSpend": 100,
+        "recommendedPlan": "pro",
+        "recommendedSeats": 5,
+        "recommendedSpend": 100,
+        "monthlySavings": 0,
+        "annualSavings": 0,
+        "reason": "Your plan is optimized for your current usage.",
+        "actionType": "no_change"
+      },
+      {
+        "toolId": "copilot",
+        "toolName": "GitHub Copilot",
+        "currentSpend": 95,
+        "recommendedPlan": "none",
+        "recommendedSeats": 0,
+        "recommendedSpend": 0,
+        "monthlySavings": 95,
+        "annualSavings": 1140,
+        "reason": "You are double-paying for coding assistants. Cancel Copilot and standardize on Cursor.",
+        "actionType": "standardize"
+      },
+      {
+        "toolId": "claude",
+        "toolName": "Claude.ai",
+        "currentSpend": 125,
+        "recommendedPlan": "team",
+        "recommendedSeats": 5,
+        "recommendedSpend": 125,
+        "monthlySavings": 0,
+        "annualSavings": 0,
+        "reason": "Your plan is optimized for your current usage.",
+        "actionType": "no_change"
+      }
+    ],
+    "ai_summary": "We analyzed your team's AI tool spend and discovered $95/mo in potential savings. For a team size of 5 running coding tasks, you can optimize your costs by: eliminating redundant tool duplication by standardizing on a single editor platform (GitHub Copilot). Applying these changes will increase your capital efficiency. Since your optimization opportunities qualify, we recommend scheduling a brief call with a Credex advisor to capture these savings."
+  }
+}
